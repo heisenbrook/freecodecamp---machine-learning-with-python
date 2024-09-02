@@ -125,8 +125,3 @@ def player(prev_play, opponent_history = [0]):
             guess = 'S'
     
     return guess
-    return guess
-    
-
-    
-    
